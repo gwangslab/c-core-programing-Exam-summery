@@ -1,4 +1,4 @@
-# c-core-programing-Exam-summery
+# c-core-programming-Exam-summery
 
 - 교재 문제 답을 공유합니다.
 
