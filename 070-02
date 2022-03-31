@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(void)
+{
+
+	int num;
+	float grade;
+	
+	printf("번호?\n");
+	scanf("%d", &num);
+	
+	printf("학점?\n");
+	scanf("%f", &grade);
+	
+	printf("%d번 학생의 학점은 %f입니다.", num, grade);
+}
